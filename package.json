@@ -1,0 +1,23 @@
+{
+  "name": "karma-node2umd",
+  "version": "1.0.0",
+  "description": "A Karma preprocessor to convert Node.js-style module files to UMD-style modules via node2umd",
+  "main": "index.js",
+  "author": "emarschner@gmail.com",
+  "license": "ISC",
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "node2umd",
+    "node",
+    "umd",
+    "commonjs"
+  ],
+  "dependencies": {
+    "node2umd": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emarschner/karma-node2umd"
+  }
+}
